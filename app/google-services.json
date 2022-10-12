@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981919396168",
+    "project_id": "visualtalk-25bad",
+    "storage_bucket": "visualtalk-25bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981919396168:android:41fb8bba12f383283ec37d",
+        "android_client_info": {
+          "package_name": "com.azkazhanif.visualtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981919396168-1nuudugnf3qud0648ij3jh7vsrq52pbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaWH9u2U9x8tlH8GvNoSNsJDf0uSm3pDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981919396168-1nuudugnf3qud0648ij3jh7vsrq52pbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

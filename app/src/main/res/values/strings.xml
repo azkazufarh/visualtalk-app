@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Visualtalk</string>
+
+    // Notification Title
+    <string name="notif_title_1">Dapatkan Kelas Terbaru</string>
+    <string name="notif_title_2">Promo Hari Ini</string>
+    <string name="notif_title_3">Kelas Gratis Java</string>
+    <string name="notif_title_4">Promo 12.12</string>
+    <string name="notif_title_5">Tingkatin Skill</string>
+    <string name="notif_title_6">Kelas Terbaru JavaScript</string>
+    <string name="notif_title_7">Siapkan Skillmu!</string>
+
+    // Notification Desc
+    <string name="notif_desc_1">Dapatkan Kelas Terbaru</string>
+    <string name="notif_desc_2">Promo Hari Ini</string>
+    <string name="notif_desc_3">Kelas Gratis Java</string>
+    <string name="notif_desc_4">Promo 12.12</string>
+    <string name="notif_desc_5">Tingkatin Skill</string>
+    <string name="notif_desc_6">Kelas Terbaru JavaScript</string>
+    <string name="notif_desc_7">Siapkan Skillmu! kejuaraan terbaru visualcodecup</string>
+    <string name="title_activity_course_page">CoursePageActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
